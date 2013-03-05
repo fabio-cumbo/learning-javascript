@@ -6,6 +6,6 @@ console.log("EXERCISE01");
  		mat += (i*j) + "\t";
  	}
  	mat += "\n";
- }
+ } 
  
 console.log(mat);
