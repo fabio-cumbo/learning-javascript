@@ -1,4 +1,4 @@
-console.log("EXERCISE01");
+console.log("EXERCISE02");
 
  var mat = "";
  for (var i=1; i<=10; i+=1) {

@@ -1,4 +1,4 @@
-console.log("EXERCISE01");
+console.log("EXERCISE03");
 
  var mat = "";
  var diag = 1;
