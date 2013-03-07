@@ -4,9 +4,9 @@ function fibonacci (n) {
   }
   return fibonacci[n];
 }
-fibonacci[1] = 0;
+fibonacci[0] = 0;
+fibonacci[1] = 1;
 fibonacci[2] = 1;
-fibonacci[3] = 1;
 
 var fib = "";
 for (var i=1; i<=10; i++) {
