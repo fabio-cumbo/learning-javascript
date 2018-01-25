@@ -1,3 +1,3 @@
 learning-javascript
 ===================
-published by Fabio Cumbo
+Some simple Javascript exercises
