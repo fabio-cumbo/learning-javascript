@@ -1,6 +1,6 @@
 console.log("EXERCISE02");
-function functionNumber2(n) {
-	
+
+function functionNumber2(n) {	
 	var arr = [];
 
 	var compare = function (value1, value2) {
@@ -15,5 +15,5 @@ function functionNumber2(n) {
 		return (item % 2 !== 0);
 	}).sort(compare);
 	
-return arr;
+	return arr;
 }
